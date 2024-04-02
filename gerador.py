@@ -1,6 +1,7 @@
 import random
 
 # PEDRO HENRIQUE DE SOUZA SILVESTRE -- ESTRUTURA DE DADOS 1 -- CIENCIA DA COMPUTAÇÃO - UEL 
+# TESTE VSCODE GITHUB
 
 """
   > referencias: 
